@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>popup</name>
+   <tag></tag>
+   <elementGuidId>ff3ca724-aba5-480f-b9cd-eae5c23a9acb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@class='popup-img']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@class='popup-img']</value>
+      <webElementGuid>bab0ff00-5f5f-4512-9b23-af6945a5547b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

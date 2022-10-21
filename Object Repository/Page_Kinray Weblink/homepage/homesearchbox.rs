@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>homesearchbox</name>
+   <tag></tag>
+   <elementGuidId>29ac18e7-3459-43d7-9283-8e2fe64b3d81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='searchValue']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='searchValue']</value>
+      <webElementGuid>ea917f74-412e-4c00-953d-75cba5801a87</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

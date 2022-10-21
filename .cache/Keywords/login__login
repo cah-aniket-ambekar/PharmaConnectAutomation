@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F3CB35194444C901DC1968746E6B7B33",
+  "keywordClasses": [
+    {
+      "name": "login.login",
+      "keywordMethods": [
+        {
+          "name": "loginpage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
