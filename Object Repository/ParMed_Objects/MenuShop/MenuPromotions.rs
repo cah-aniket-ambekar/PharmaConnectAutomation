@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuPromotions</name>
+   <tag></tag>
+   <elementGuidId>acd39d6a-6d39-4710-b161-2391b463602f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='nav-promotions-menu']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='nav-promotions-menu']</value>
+      <webElementGuid>d16fb883-e81c-4231-94eb-fe0ea7e41354</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

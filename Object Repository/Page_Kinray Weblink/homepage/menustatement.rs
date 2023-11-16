@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menustatement</name>
+   <tag></tag>
+   <elementGuidId>5aefd8c7-211f-4496-9cc3-669e5d507341</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='statements']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='statements']</value>
+      <webElementGuid>5fada362-f58e-4a5c-9a69-6d85e2902ad4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

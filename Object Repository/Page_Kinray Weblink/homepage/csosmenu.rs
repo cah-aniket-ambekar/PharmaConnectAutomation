@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>csosmenu</description>
+   <name>csosmenu</name>
+   <tag></tag>
+   <elementGuidId>020d946a-f416-4ba0-b868-518db1f34fb8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='csos']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='csos']</value>
+      <webElementGuid>0dd0b8c3-8dfb-4e31-8714-71ef5606dfd1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

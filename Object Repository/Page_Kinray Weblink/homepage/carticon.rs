@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>carticon</name>
+   <tag></tag>
+   <elementGuidId>63f681ad-8faf-451f-ad9d-4dad6fef7167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@id=&quot;shopping-cart-icon&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@id=&quot;shopping-cart-icon&quot;]</value>
+      <webElementGuid>1a2fe51f-87fd-40a4-8fed-47792bd9b112</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

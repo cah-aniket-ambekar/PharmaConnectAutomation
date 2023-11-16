@@ -17,11 +17,41 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'login.login.loginpage'()
+'Login to Kinray application'
+CustomKeywords.'login.ParMedlogin.loginpage'()
 
-WebUI.click(findTestObject('Page_Kinray Weblink/homepage/homesearchbox'))
+'Click on the search box of ParMed app'
+WebUI.click(findTestObject('ParMed_Objects/HomePage/HomeSearch'))
 
-WebUI.setText(findTestObject('Page_Kinray Weblink/homepage/homesearchbox'), '5251673')
+'Input the item id to search'
+WebUI.setText(findTestObject('ParMed_Objects/HomePage/HomeSearch'), ItemId)
 
-WebUI.click(findTestObject('Page_Kinray Weblink/homepage/searchbtn'))
+'Click on the search btn'
+WebUI.click(findTestObject('ParMed_Objects/HomePage/HomeSearchBtn'))
+
+'Input the quantity'
+WebUI.setText(findTestObject('ParMed_Objects/HomePage/TxtAddQty'), Qty)
+
+'Add the item to cart'
+WebUI.click(findTestObject('ParMed_Objects/HomePage/BtnAddQty'))
+
+'Proceed to checkout'
+WebUI.click(findTestObject('ParMed_Objects/HomePage/HomeCheckOut'))
+
+'Validate the item id in cart'
+WebUI.verifyElementText(findTestObject('ParMed_Objects/Cart/TxtCartItem'), ItemId)
+
+'Click on check out button'
+WebUI.enhancedClick(findTestObject('ParMed_Objects/Cart/ParmedCheckOut'))
+
+'Validate the item id in order review page'
+WebUI.verifyElementText(findTestObject('ParMed_Objects/Cart/TxtCartItem'), ItemId)
+
+'Click on submit order button'
+WebUI.click(findTestObject('ParMed_Objects/Cart/BtnSubmit'))
+
+'Click on confirm submit order button'
+WebUI.click(findTestObject('ParMed_Objects/Cart/ConfirmSubmitBtn'))
+
+
 

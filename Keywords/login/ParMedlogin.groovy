@@ -20,28 +20,26 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class login {
+public class ParMedlogin {
 	@Keyword
 	def loginpage() {
 		WebUI.openBrowser('')
 
 		//stage
-		WebUI.navigateToUrl('https://kinrayweblink.stg.cardinalhealth.com/login')
+		WebUI.navigateToUrl('https://parmed.stg.cardinalhealth.com/home')
 
-		//prod
-		//WebUI.navigateToUrl('https://kinrayweblink.cardinalhealth.com/home')
+		WebUI.maximizeWindow()
 
-		WebUI.setText(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Username_username'), 'aniket.ambekar@cardinalhealth.com')
+		WebUI.click(findTestObject('ParMed_Objects/LoginPage/SignBtn'))
+
+		WebUI.setText(findTestObject('ParMed_Objects/LoginPage/UserName'), 'ambekar_aniket')
 		//stage
-		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Password_password'), 'rFGTHkXPeQzEHx+PNzPy6w==')
-
+		WebUI.setEncryptedText(findTestObject('ParMed_Objects/LoginPage/Password'), 'tcAC3mGBcIHgJRVN2El2yw==')
 
 		//prod
 		//WebUI.setEncryptedText(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Password_password'), 'rFGTHkXPeQzUJJ9Kq7yydQ==')
 
-		WebUI.click(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Remember me_okta-signin-submit'))
-
-		WebUI.maximizeWindow()
+		WebUI.click(findTestObject('ParMed_Objects/LoginPage/ApplicationLogin'))
 
 		WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/popup'), 15)
 

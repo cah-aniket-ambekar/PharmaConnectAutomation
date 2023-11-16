@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Order history search is happening and details page is loading</description>
+   <name>TS_Validate_OrderHistory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a058bf08-7493-479f-be88-badf4dafe066</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d649ff68-3b30-45e1-80cb-5fe67bbb1373</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'851683535'</defaultValue>
+      <description></description>
+      <id>d649ff68-3b30-45e1-80cb-5fe67bbb1373</id>
+      <masked>false</masked>
+      <name>OrderNum</name>
+   </variable>
+</TestCaseEntity>

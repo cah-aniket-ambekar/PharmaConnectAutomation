@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>HeaderColdCough</name>
+   <tag></tag>
+   <elementGuidId>cd70a0ba-47ef-438b-b635-2322fae7bd5d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@id='header']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@id='header']</value>
+      <webElementGuid>50a0760e-3f66-4fd7-b89f-f8c2e1b29573</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

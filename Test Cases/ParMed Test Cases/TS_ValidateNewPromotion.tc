@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login_Kinray</name>
+   <name>TS_ValidateNewPromotion</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>0aebfb67-a9e7-4f5f-bbea-164cecdb5b8b</testCaseGuid>
+   <testCaseGuid>81c8b72d-230e-4bce-8b34-ab522e593fcf</testCaseGuid>
 </TestCaseEntity>

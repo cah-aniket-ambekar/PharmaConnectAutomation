@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>submitorderbtn</description>
+   <name>submitbtn</name>
+   <tag></tag>
+   <elementGuidId>e931ebb8-aa80-4967-8ef1-83f16009ae72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id=&quot;submit-btn&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id=&quot;submit-btn&quot;]</value>
+      <webElementGuid>412b995c-bf0c-492c-8ca9-7e78704b8c9e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

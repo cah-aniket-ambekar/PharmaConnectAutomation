@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>addbtnqty</description>
+   <name>addbtn</name>
+   <tag></tag>
+   <elementGuidId>27ac2870-c849-4cf6-91b5-ee6e0cd4f497</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[@onmouseout=&quot;this.src='assets/images/Add_vertical.png';&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//img[@onmouseout=&quot;this.src='assets/images/Add_vertical.png';&quot;]</value>
+      <webElementGuid>05ec163c-8dfc-4fe6-9584-d59119b9d301</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

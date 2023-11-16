@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>outmenu</name>
+   <tag></tag>
+   <elementGuidId>7c644283-7a2c-4414-9c98-1617cf4eb135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='outsNavLink']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='outsNavLink']</value>
+      <webElementGuid>5c38997c-9197-45f1-830d-5056be458fff</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

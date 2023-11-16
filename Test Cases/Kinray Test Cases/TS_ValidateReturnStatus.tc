@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TS_ValidateReturnStatus request number</description>
+   <name>TS_ValidateReturnStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>944c67b9-1052-4f4b-9ad9-e867f48e7a70</testCaseGuid>
+</TestCaseEntity>
