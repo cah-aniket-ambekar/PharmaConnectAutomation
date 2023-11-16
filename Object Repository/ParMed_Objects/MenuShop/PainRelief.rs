@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PainRelief</name>
+   <tag></tag>
+   <elementGuidId>a5d48234-dc0c-48be-9844-4954b35392ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='category-2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='category-2']</value>
+      <webElementGuid>7af09367-8477-4f3b-9734-4c8cffdb863e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

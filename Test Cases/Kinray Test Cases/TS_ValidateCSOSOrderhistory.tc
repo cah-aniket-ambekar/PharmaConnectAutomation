@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate CSOS order history page is opening
+Validate CSOS order number able to search
+Validate CSOS order history details page is displayd with searched order num</description>
+   <name>TS_ValidateCSOSOrderhistory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>628b954f-24d0-4664-bacd-5a06b58adb2e</testCaseGuid>
+</TestCaseEntity>

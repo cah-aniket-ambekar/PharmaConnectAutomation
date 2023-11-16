@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ValidateComposeNewMessage page is loading or not</description>
+   <name>TS_ValidateComposeNewMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc602f5f-5437-43a1-8bb1-1e260f95cb27</testCaseGuid>
+</TestCaseEntity>

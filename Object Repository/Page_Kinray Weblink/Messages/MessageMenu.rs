@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>MessageMenu</description>
+   <name>MessageMenu</name>
+   <tag></tag>
+   <elementGuidId>0a198bc3-c854-44d3-8775-da3ddd83e759</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(text(),'MESSAGES')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'MESSAGES')]</value>
+      <webElementGuid>de8305d0-ebed-48ee-8890-be903816f0e7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

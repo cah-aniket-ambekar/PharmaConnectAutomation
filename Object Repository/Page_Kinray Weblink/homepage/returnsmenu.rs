@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>returnsmenu</description>
+   <name>returnsmenu</name>
+   <tag></tag>
+   <elementGuidId>51861d72-6fa7-480f-b5fb-18527a2a6d8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[contains(text(),'RETURNS')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'RETURNS')]</value>
+      <webElementGuid>dd8f2c68-d730-49a0-be21-9013f937953a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

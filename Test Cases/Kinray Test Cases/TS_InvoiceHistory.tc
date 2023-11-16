@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate the invoice search is happening and invoice details page loaded</description>
+   <name>TS_InvoiceHistory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c87f207e-bdd8-4d98-ac9e-e2ef5d7b65f6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00187208-ff6c-49c7-a3a3-9d13c938df82</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'7220716952'</defaultValue>
+      <description></description>
+      <id>00187208-ff6c-49c7-a3a3-9d13c938df82</id>
+      <masked>false</masked>
+      <name>InvoiceNum</name>
+   </variable>
+</TestCaseEntity>

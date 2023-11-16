@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>menutracktrace</name>
+   <tag></tag>
+   <elementGuidId>3034ce6d-5e1d-4831-bec0-7e72118821f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='trackNtrace']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='trackNtrace']</value>
+      <webElementGuid>0376271b-4b84-471f-b763-b608326c4059</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

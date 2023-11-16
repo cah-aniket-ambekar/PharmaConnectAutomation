@@ -6,6 +6,7 @@
    <UUID>78985e62-976c-44be-8687-98ca31484723</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Automation\test\Kinray_Katalon\My First Web UI Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

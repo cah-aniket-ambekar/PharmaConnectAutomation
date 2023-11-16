@@ -1,8 +1,8 @@
 {
-  "keywordFileContentHash": "08D2FC55A7F1EE50660F40C349C3D9CE",
+  "keywordFileContentHash": "690579B1F92F0AEDCD447F2402D8AA54",
   "keywordClasses": [
     {
-      "name": "login.login",
+      "name": "login.ParMedlogin",
       "keywordMethods": [
         {
           "name": "loginpage",

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Categories Cough and Cold</description>
+   <name>TS_ValidateCategoriesCC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccf6362d-35e4-488f-bbd5-c258d1753932</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a62ebd32-7a88-45df-a074-311d0975ec70</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Cough and Cold'</defaultValue>
+      <description></description>
+      <id>a62ebd32-7a88-45df-a074-311d0975ec70</id>
+      <masked>false</masked>
+      <name>HeaderText</name>
+   </variable>
+</TestCaseEntity>

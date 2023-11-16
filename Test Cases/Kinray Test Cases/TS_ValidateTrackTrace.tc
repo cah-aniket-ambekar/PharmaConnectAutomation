@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate track and trace navigation</description>
+   <name>TS_ValidateTrackTrace</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a37f0a4e-479e-49bb-b31f-7a157a51d086</testCaseGuid>
+</TestCaseEntity>

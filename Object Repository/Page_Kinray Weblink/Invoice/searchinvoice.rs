@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>textboxsearchinv</description>
+   <name>searchinvoice</name>
+   <tag></tag>
+   <elementGuidId>482a45b4-c5ec-4700-9f32-db7bd0a0caad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='searchItemORPoNumber']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='searchItemORPoNumber']</value>
+      <webElementGuid>7f779a4d-7df3-4500-8f6a-b243dbd5e17c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
