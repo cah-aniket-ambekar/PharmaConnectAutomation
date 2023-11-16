@@ -26,18 +26,18 @@ public class ParMedlogin {
 		WebUI.openBrowser('')
 
 		//stage
-		WebUI.navigateToUrl('https://parmed.stg.cardinalhealth.com/home')
-
+		String parmedUrl = GlobalVariable.ParmedStage
+		String parmedUsername = GlobalVariable.ParmedUserName
+		String parmedPwd = GlobalVariable.ParmedPwd
+		
+		WebUI.navigateToUrl(parmedUrl)
 		WebUI.maximizeWindow()
 
 		WebUI.click(findTestObject('ParMed_Objects/LoginPage/SignBtn'))
 
-		WebUI.setText(findTestObject('ParMed_Objects/LoginPage/UserName'), 'ambekar_aniket')
-		//stage
-		WebUI.setEncryptedText(findTestObject('ParMed_Objects/LoginPage/Password'), 'tcAC3mGBcIHgJRVN2El2yw==')
-
-		//prod
-		//WebUI.setEncryptedText(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Password_password'), 'rFGTHkXPeQzUJJ9Kq7yydQ==')
+		WebUI.setText(findTestObject('ParMed_Objects/LoginPage/UserName'), parmedUsername)
+		
+		WebUI.setEncryptedText(findTestObject('ParMed_Objects/LoginPage/Password'), parmedPwd)
 
 		WebUI.click(findTestObject('ParMed_Objects/LoginPage/ApplicationLogin'))
 
