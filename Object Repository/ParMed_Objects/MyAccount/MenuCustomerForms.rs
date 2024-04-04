@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description>invoicelink</description>
-   <name>invoicelnk</name>
+   <description>Menu customer forms</description>
+   <name>MenuCustomerForms</name>
    <tag></tag>
-   <elementGuidId>e80630dd-280f-47de-9084-f0412e4f5cfb</elementGuidId>
+   <elementGuidId>5fbabab5-2c24-4ff1-b4b5-78f6efdf7980</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[@id='goToInvoiceDetail-']</value>
+         <value>//button[@id='nav-customer-forms']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[@id='goToInvoiceDetail-7223031877']</value>
-      <webElementGuid>8f962340-3ce5-40ea-9adc-1c688f47ad2b</webElementGuid>
+      <value>//button[@id='nav-customer-forms']</value>
+      <webElementGuid>306a2232-f060-4ce5-a4e8-7dcc8eb1354e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

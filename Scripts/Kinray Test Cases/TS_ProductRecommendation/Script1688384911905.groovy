@@ -31,3 +31,5 @@ WebUI.getText(findTestObject('Page_Kinray Weblink/ProdRecommendation/ProdRecHead
 
 WebUI.verifyElementText(findTestObject('Page_Kinray Weblink/ProdRecommendation/ProdRecHeader'), 'Items potentially inspired from your purchase history')
 
+
+

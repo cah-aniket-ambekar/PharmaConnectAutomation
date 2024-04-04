@@ -17,18 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+
 'Login to Kinray application'
 CustomKeywords.'login.ParMedlogin.loginpage'()
 
-'Click on the shop menu'
-WebUI.click(findTestObject('ParMed_Objects/Menus/ShopMenu'))
+'Click on the My Account menu'
+WebUI.enhancedClick(findTestObject('ParMed_Objects/MyAccount/MenuAccount'))
 
-'Click on the promotions sub menu'
-WebUI.enhancedClick(findTestObject('ParMed_Objects/MenuShop/MenuPromotions'))
-
-'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/HeaderPromotions'), 'Promotions')
+'Click on the CustomerForms menu under My Account menu'
+WebUI.enhancedClick(findTestObject('ParMed_Objects/MyAccount/MenuCustomerForms'))
 
 'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/TestDataPromotions'), 'NEW PROMOTION')
+WebUI.verifyElementText(findTestObject('ParMed_Objects/MyAccount/HeaderCustomerForms'), 'Customer Forms')
 
+'Verify the credit application button is displayed'
+WebUI.verifyElementText(findTestObject('ParMed_Objects/MyAccount/BtnTxtCreditApplication'), 'Credit Application')

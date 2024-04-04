@@ -17,18 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'Login to Kinray application'
+'Login to Parmed application'
 CustomKeywords.'login.ParMedlogin.loginpage'()
 
-'Click on the shop menu'
-WebUI.click(findTestObject('ParMed_Objects/Menus/ShopMenu'))
+'Click on the My Account menu'
+WebUI.enhancedClick(findTestObject('ParMed_Objects/MyAccount/MenuAccount'))
 
-'Click on the promotions sub menu'
-WebUI.enhancedClick(findTestObject('ParMed_Objects/MenuShop/MenuPromotions'))
+'Click on the Subscriptions menu under My Account menu'
+WebUI.enhancedClick(findTestObject('ParMed_Objects/MyAccount/MenuSubscriptions'))
+
+WebUI.waitForPageLoad(10)
 
 'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/HeaderPromotions'), 'Promotions')
+WebUI.verifyElementText(findTestObject('ParMed_Objects/MyAccount/TxtMySubscription'), 'My Subscriptions')
 
-'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/TestDataPromotions'), 'NEW PROMOTION')
+'Verify the add new sbuscription button is displayed'
+WebUI.verifyElementVisible(findTestObject('ParMed_Objects/MyAccount/btnAddNewSubscription'))
 

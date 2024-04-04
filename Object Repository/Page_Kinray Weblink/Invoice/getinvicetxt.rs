@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[contains(text(),'7220716952')]</value>
+         <value>//a[contains(text(),'')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[contains(text(),'7220716952')]</value>
-      <webElementGuid>75be6c55-2ccb-468e-b586-15820dd1a226</webElementGuid>
+      <value>//a[contains(text(),'7223031877')]</value>
+      <webElementGuid>8fe42404-a996-413d-ad7c-c169cf8d77d4</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

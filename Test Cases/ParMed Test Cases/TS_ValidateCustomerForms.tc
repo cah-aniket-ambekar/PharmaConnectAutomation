@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TS_Validate Customer Forms page is displayed or no</description>
+   <name>TS_ValidateCustomerForms</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa1254eb-1c30-4851-a7c6-92709820aa94</testCaseGuid>
+</TestCaseEntity>

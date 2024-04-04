@@ -20,15 +20,15 @@ import org.openqa.selenium.Keys as Keys
 'Login to Kinray application'
 CustomKeywords.'login.ParMedlogin.loginpage'()
 
-'Click on the shop menu'
-WebUI.click(findTestObject('ParMed_Objects/Menus/ShopMenu'))
+'Click on the My Account menu'
+WebUI.enhancedClick(findTestObject('ParMed_Objects/MyAccount/MenuAccount'))
 
-'Click on the promotions sub menu'
-WebUI.enhancedClick(findTestObject('ParMed_Objects/MenuShop/MenuPromotions'))
-
-'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/HeaderPromotions'), 'Promotions')
+'Click on the Manager credit card menu under My Account menu'
+WebUI.enhancedClick(findTestObject('ParMed_Objects/MyAccount/MenuManageCreditCards'))
 
 'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/TestDataPromotions'), 'NEW PROMOTION')
+WebUI.verifyElementText(findTestObject('ParMed_Objects/MyAccount/HeaderManageCreditCard'), 'Manage Credit Cards')
+
+'Verify the add button is displayed'
+WebUI.verifyElementVisible(findTestObject('ParMed_Objects/MyAccount/btnAdd'))
 

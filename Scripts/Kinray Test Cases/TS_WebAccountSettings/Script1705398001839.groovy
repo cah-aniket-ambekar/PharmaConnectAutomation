@@ -18,17 +18,15 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 'Login to Kinray application'
-CustomKeywords.'login.ParMedlogin.loginpage'()
+CustomKeywords.'login.login.loginpage'()
 
-'Click on the shop menu'
-WebUI.click(findTestObject('ParMed_Objects/Menus/ShopMenu'))
+'Click on Account menu'
+WebUI.click(findTestObject('Page_Kinray Weblink/homepage/BtnAccount'))
 
-'Click on the promotions sub menu'
-WebUI.enhancedClick(findTestObject('ParMed_Objects/MenuShop/MenuPromotions'))
+'Click web account drop down history'
+WebUI.click(findTestObject('Page_Kinray Weblink/homepage/drpDwnWebAccount'))
+	
+'Verify web account settings page'
+WebUI.verifyElementText(findTestObject('Page_Kinray Weblink/homepage/headerWebAccount'), header)
 
-'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/HeaderPromotions'), 'Promotions')
-
-'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/TestDataPromotions'), 'NEW PROMOTION')
 

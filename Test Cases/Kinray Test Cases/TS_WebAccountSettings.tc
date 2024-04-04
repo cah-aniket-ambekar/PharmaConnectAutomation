@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_WebAccountSettings</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e311c20-6aae-424a-8db9-dac4bde05d51</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a870de26-51ee-4494-81ec-eb6889aba2fe</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Web Account Settings'</defaultValue>
+      <description></description>
+      <id>a870de26-51ee-4494-81ec-eb6889aba2fe</id>
+      <masked>false</masked>
+      <name>header</name>
+   </variable>
+</TestCaseEntity>

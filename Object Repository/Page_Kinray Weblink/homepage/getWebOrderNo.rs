@@ -7,17 +7,18 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[contains(text(),'851683535')]</value>
+         <value>//*[contains(text(),'851797237')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[contains(text(),'851683535')]</value>
-      <webElementGuid>54594d95-d4b4-45a2-9665-09d4987a44ce</webElementGuid>
+      <value>//*[contains(text(),'851797237')]</value>
+      <webElementGuid>52d05e9a-f1e3-41cb-8d0f-b09b181f56d8</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

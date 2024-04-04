@@ -4,4 +4,34 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://kinrayweblink.stg.cardinalhealth.com/login'</initValue>
+      <name>KinrayStage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://parmed.stg.cardinalhealth.com/home'</initValue>
+      <name>ParmedStage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'aniket.ambekar@cardinalhealth.com'</initValue>
+      <name>KinrayUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rFGTHkXPeQxsHr3OCnPyNw=='</initValue>
+      <name>KinrayPwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ambekar_aniket'</initValue>
+      <name>ParmedUserName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'tcAC3mGBcIHgJRVN2El2yw=='</initValue>
+      <name>ParmedPwd</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
