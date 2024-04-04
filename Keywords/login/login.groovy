@@ -26,19 +26,17 @@ public class login {
 		WebUI.openBrowser('')
 
 		//stage
-		WebUI.navigateToUrl('https://kinrayweblink.stg.cardinalhealth.com/login')
+		String kinrayUrl = GlobalVariable.KinrayStage
+		String kinrayUsername = GlobalVariable.KinrayUserName
+		String kinrayPwd = GlobalVariable.KinrayPwd
 
-		//prod
-		//WebUI.navigateToUrl('https://kinrayweblink.cardinalhealth.com/home')
-
-		WebUI.setText(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Username_username'), 'aniket.ambekar@cardinalhealth.com')
 		//stage
-		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Password_password'), 'rFGTHkXPeQzEHx+PNzPy6w==')
-
-
-		//prod
-		//WebUI.setEncryptedText(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Password_password'), 'rFGTHkXPeQzUJJ9Kq7yydQ==')
-
+		WebUI.navigateToUrl(kinrayUrl)
+		//username
+		WebUI.setText(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Username_username'), kinrayUsername)
+		//pwd
+		WebUI.setEncryptedText(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Password_password'), kinrayPwd)
+		//click on login btn
 		WebUI.click(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/input_Remember me_okta-signin-submit'))
 
 		WebUI.maximizeWindow()

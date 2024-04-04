@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description>invoicelink</description>
-   <name>invoicelnk</name>
+   <description></description>
+   <name>MenuManageCreditCards</name>
    <tag></tag>
-   <elementGuidId>e80630dd-280f-47de-9084-f0412e4f5cfb</elementGuidId>
+   <elementGuidId>c7825756-94cc-4c88-93da-54fe898a9387</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[@id='goToInvoiceDetail-']</value>
+         <value>//button[@id='nav-manage-cards']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[@id='goToInvoiceDetail-7223031877']</value>
-      <webElementGuid>8f962340-3ce5-40ea-9adc-1c688f47ad2b</webElementGuid>
+      <value>//button[@id='nav-manage-cards']</value>
+      <webElementGuid>e74d8b60-2017-47e9-ba5f-07a448fb2346</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

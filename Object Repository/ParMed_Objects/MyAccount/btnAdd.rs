@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description>invoicelink</description>
-   <name>invoicelnk</name>
+   <description></description>
+   <name>btnAdd</name>
    <tag></tag>
-   <elementGuidId>e80630dd-280f-47de-9084-f0412e4f5cfb</elementGuidId>
+   <elementGuidId>f78f6e6b-e963-4c03-862d-c27a00cf4e3e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[@id='goToInvoiceDetail-']</value>
+         <value>//button[@id='btn-add']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[@id='goToInvoiceDetail-7223031877']</value>
-      <webElementGuid>8f962340-3ce5-40ea-9adc-1c688f47ad2b</webElementGuid>
+      <value>//button[@id='btn-add']</value>
+      <webElementGuid>d8da65f6-80b8-4484-ba40-67eaf9ebafd2</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

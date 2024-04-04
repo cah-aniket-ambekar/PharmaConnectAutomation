@@ -7,17 +7,18 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[@id='goToOrderDetail-851683535']</value>
+         <value>//a[@id='goToOrderDetail-851797237']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[@id='goToOrderDetail-851683535']</value>
-      <webElementGuid>3fd4aebe-7dca-4347-b510-443be81c3f9c</webElementGuid>
+      <value>//a[@id='goToOrderDetail-851797237']</value>
+      <webElementGuid>f6e44919-5747-498c-aac8-26c82d629a9f</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

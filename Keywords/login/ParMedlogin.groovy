@@ -29,16 +29,17 @@ public class ParMedlogin {
 		String parmedUrl = GlobalVariable.ParmedStage
 		String parmedUsername = GlobalVariable.ParmedUserName
 		String parmedPwd = GlobalVariable.ParmedPwd
-		
+
 		WebUI.navigateToUrl(parmedUrl)
 		WebUI.maximizeWindow()
 
+		//click on sign in button
 		WebUI.click(findTestObject('ParMed_Objects/LoginPage/SignBtn'))
-
+		//input username
 		WebUI.setText(findTestObject('ParMed_Objects/LoginPage/UserName'), parmedUsername)
-		
+		//input pwd
 		WebUI.setEncryptedText(findTestObject('ParMed_Objects/LoginPage/Password'), parmedPwd)
-
+		//click on login button
 		WebUI.click(findTestObject('ParMed_Objects/LoginPage/ApplicationLogin'))
 
 		WebUI.waitForElementPresent(findTestObject('Object Repository/Page_Kinray Weblink/loginkinray/popup'), 15)

@@ -17,18 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-'Login to Kinray application'
-CustomKeywords.'login.ParMedlogin.loginpage'()
-
-'Click on the shop menu'
-WebUI.click(findTestObject('ParMed_Objects/Menus/ShopMenu'))
-
-'Click on the promotions sub menu'
-WebUI.enhancedClick(findTestObject('ParMed_Objects/MenuShop/MenuPromotions'))
-
-'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/HeaderPromotions'), 'Promotions')
-
-'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/TestDataPromotions'), 'NEW PROMOTION')
-

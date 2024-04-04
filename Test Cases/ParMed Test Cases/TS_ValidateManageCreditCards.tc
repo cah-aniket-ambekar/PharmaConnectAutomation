@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate Manage Credit Cards</description>
+   <name>TS_ValidateManageCreditCards</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cf7fd48-e2cd-4847-b464-a48126e23ea3</testCaseGuid>
+</TestCaseEntity>

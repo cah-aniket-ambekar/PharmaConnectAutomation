@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
-   <description>invoicelink</description>
-   <name>invoicelnk</name>
+   <description></description>
+   <name>HeaderManageCreditCard</name>
    <tag></tag>
-   <elementGuidId>e80630dd-280f-47de-9084-f0412e4f5cfb</elementGuidId>
+   <elementGuidId>a95cfe32-3502-494d-b643-50f52e1e4af4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[@id='goToInvoiceDetail-']</value>
+         <value>//span[contains(text(),'Manage Credit Cards')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,7 +17,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[@id='goToInvoiceDetail-7223031877']</value>
-      <webElementGuid>8f962340-3ce5-40ea-9adc-1c688f47ad2b</webElementGuid>
+      <value>//span[contains(text(),'Manage Credit Cards')]</value>
+      <webElementGuid>44af1009-cc77-4210-ade6-f4810101189e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
