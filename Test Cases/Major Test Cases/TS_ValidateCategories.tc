@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>dummy</name>
+   <name>TS_ValidateCategories</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6a513f17-d29d-4f8a-b7d9-7712e8b73f56</testCaseGuid>
+   <testCaseGuid>38f3e60c-a076-4586-96e1-7fe3cfc80e7a</testCaseGuid>
 </TestCaseEntity>

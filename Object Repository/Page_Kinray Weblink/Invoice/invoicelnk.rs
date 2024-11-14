@@ -7,17 +7,18 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[@id='goToInvoiceDetail-']</value>
+         <value>//a[@id='goToInvoiceDetail-7378363046']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[@id='goToInvoiceDetail-7223031877']</value>
-      <webElementGuid>8f962340-3ce5-40ea-9adc-1c688f47ad2b</webElementGuid>
+      <value>//a[@id='goToInvoiceDetail-7378363046']</value>
+      <webElementGuid>51befeb8-f7b4-4700-a607-04c7e3fb193d</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

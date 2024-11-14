@@ -17,4 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-//test 04 april
+'Login to Kinray application'
+CustomKeywords.'login.ParMedlogin.loginpage'()
+
+'Click on the shop menu'
+WebUI.click(findTestObject('ParMed_Objects/Menus/ShopMenu'))
+
+'Click on the promotions sub menu'
+WebUI.enhancedClick(findTestObject('ParMed_Objects/MenuShop/Dispil'))
+
+'Verify the header text'
+WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/HeaderDispilPage'), "Search results for 'dispill'")
+
+'Verify the item text present in page'
+WebUI.verifyElementText(findTestObject('ParMed_Objects/Dispil/DispilItem'), "DISPILL MOUNTING TRAY 32CELLS")
+
+
+
+

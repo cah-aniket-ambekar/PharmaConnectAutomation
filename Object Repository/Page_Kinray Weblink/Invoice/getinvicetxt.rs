@@ -7,17 +7,18 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[contains(text(),'')]</value>
+         <value>//a[contains(text(),'7378363046')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[contains(text(),'7223031877')]</value>
-      <webElementGuid>8fe42404-a996-413d-ad7c-c169cf8d77d4</webElementGuid>
+      <value>//a[contains(text(),'7378363046')]</value>
+      <webElementGuid>e24870f4-d10b-4871-8654-cba81b54291e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

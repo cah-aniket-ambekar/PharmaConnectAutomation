@@ -7,9 +7,10 @@
    <createdVersion>9.3.1</createdVersion>
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedVersion>9.3.1</modifiedVersion>
+   <modifiedEdition>ENTERPRISE</modifiedEdition>
+   <modifiedVersion>9.3.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Automation\Katalon\Kinray_Katalon\My First Web UI Project.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\aniket.ambekar\OneDrive - Cardinal Health\Automation\KatalonLatest\Kinray_Katalon\My First Web UI Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

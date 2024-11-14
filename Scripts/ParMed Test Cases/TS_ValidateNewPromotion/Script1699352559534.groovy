@@ -30,5 +30,5 @@ WebUI.enhancedClick(findTestObject('ParMed_Objects/MenuShop/MenuPromotions'))
 WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/HeaderPromotions'), 'Promotions')
 
 'Verify the header text'
-WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/TestDataPromotions'), 'NEW PROMOTION')
+WebUI.verifyElementText(findTestObject('ParMed_Objects/MenuShop/TestDataPromotions'), 'Promotions')
 

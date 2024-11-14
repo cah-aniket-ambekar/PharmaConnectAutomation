@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "6D938B6FCD700D36693D1C5AB4E177A8",
+  "keywordClasses": [
+    {
+      "name": "FileWriterTxt",
+      "keywordMethods": [
+        {
+          "name": "FileUtilsWrite",
+          "parameters": [
+            {
+              "name": "fileName",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

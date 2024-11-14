@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TS_ValidateReportsPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22530ebe-6fc4-43ea-95ea-71a60898132c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bedb57c8-02eb-407f-ba52-3d821e58f370</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kinray was established in 1944 in Brooklyn, NY as a pharmaceutical distributorship, dedicated'</defaultValue>
+      <description></description>
+      <id>bedb57c8-02eb-407f-ba52-3d821e58f370</id>
+      <masked>false</masked>
+      <name>ReportTxt</name>
+   </variable>
+</TestCaseEntity>

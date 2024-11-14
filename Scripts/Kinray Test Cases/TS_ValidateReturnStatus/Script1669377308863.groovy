@@ -23,22 +23,20 @@ WebUI.click(findTestObject('Page_Kinray Weblink/homepage/returnsmenu'))
 
 WebUI.click(findTestObject('Page_Kinray Weblink/homepage/submenureturnstatus'))
 
-WebUI.setText(findTestObject('Page_Kinray Weblink/homepage/searchmranumber'), '3900181347')
+WebUI.setText(findTestObject('Page_Kinray Weblink/homepage/searchmranumber'), '3907945672')
 
 WebUI.click(findTestObject('Page_Kinray Weblink/homepage/mrasearchbtn'))
 
 WebUI.click(findTestObject('Page_Kinray Weblink/ReturnPage/MRAlink'))
+
 WebUI.delay(5)
 
-String ss=WebUI.getText(findTestObject('Page_Kinray Weblink/ReturnPage/MRAtext'))
+String ss = WebUI.getText(findTestObject('Page_Kinray Weblink/ReturnPage/MRAtext'))
+
 //println ss
 //WebUI.verifyMatch(ss.trim(),'Material Return Authorization',true)
-
 //WebUI.verifyElementText((findTestObject('Page_Kinray Weblink/ReturnPage/MRAtext')).trim(), 'Material Return Authorization')
-
 //String s='Material Return Authorization'
-
 //WebUI.comment(ss+s)
-WebUI.verifyEqual(ss.contains("Material Return Authorization"),true)
+WebUI.verifyEqual(ss.contains('Material Return Authorization'), true)
 
-//WebUI.verifyEqual(findTestObject('Page_Kinray Weblink/ReturnPage/MRAtext').equals(s), true)

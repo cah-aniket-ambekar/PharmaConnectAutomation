@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>TS_ValidateReturnsHelpPage</description>
+   <name>TS_ValidateReturnsHelpPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d91b769-1de8-4685-85bc-e361e232ea09</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08b57c48-53df-4812-8b35-de017a1d85ce</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Returns Policy'</defaultValue>
+      <description></description>
+      <id>08b57c48-53df-4812-8b35-de017a1d85ce</id>
+      <masked>false</masked>
+      <name>ReturnHelpTxt</name>
+   </variable>
+</TestCaseEntity>

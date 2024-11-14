@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>MenuOrderHistory</name>
+   <tag></tag>
+   <elementGuidId>11724b9c-4cc9-4a5a-bd33-c83b7ed0f03e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@id='nav-order-history']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[@id='nav-order-history']</value>
+      <webElementGuid>5b9bbcb2-da9e-4621-ba53-6e6ea7b41924</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

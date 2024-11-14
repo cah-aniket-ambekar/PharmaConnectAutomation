@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ValidateFlucare link/portal</description>
+   <name>TS_ValidateFlucareLnk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38c2f4c9-88a6-46ab-b4cf-4240dedc8d03</testCaseGuid>
+</TestCaseEntity>

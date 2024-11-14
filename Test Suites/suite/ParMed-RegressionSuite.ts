@@ -31,26 +31,6 @@
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>dbf56438-97ff-4d30-94e8-17784a2dace2</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/ParMed Test Cases/TS_ValidateCategoriesCC</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>a62ebd32-7a88-45df-a074-311d0975ec70</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>bcb8186d-b4d7-48ed-b8b3-091692442c61</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/ParMed Test Cases/TS_ValidateCategoriesPF</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>40fe5b91-438d-49df-b15b-709d009cc74c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -76,6 +56,41 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/ParMed Test Cases/TS_ValidateSubscriptions</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7c4f473c-7510-48f8-b93a-f7ead8c84df5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ParMed Test Cases/TS_ValidateFullCatalogMenu</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>225fa417-9512-40c6-a92e-d5363c9d55bf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ParMed Test Cases/TS_ValidateNewPromotion</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6cdc398a-d30d-4cf6-bace-264ad54c04ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ParMed Test Cases/TS_ValidateOrderHistory</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e9c13144-b41d-4a0c-92d2-f1427eb2dd66</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ParMed Test Cases/TS_ValidateContactUS</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>725c8750-16d8-4756-aad5-42ece985bdfd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ParMed Test Cases/TS_ValidateWatchlistPage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
