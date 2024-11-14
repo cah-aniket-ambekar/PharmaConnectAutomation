@@ -21,7 +21,7 @@ CustomKeywords.'login.login.loginpage'()
 
 WebUI.click(findTestObject('Page_Kinray Weblink/homepage/homesearchbox'))
 
-WebUI.setText(findTestObject('Page_Kinray Weblink/homepage/homesearchbox'), '4981130')
+WebUI.setText(findTestObject('Page_Kinray Weblink/homepage/homesearchbox'), '5542121')
 
 WebUI.click(findTestObject('Page_Kinray Weblink/homepage/searchbtn'))
 
@@ -30,6 +30,4 @@ WebUI.click(findTestObject('Page_Kinray Weblink/homepage/addbtn'))
 WebUI.getText(findTestObject('Page_Kinray Weblink/ProdRecommendation/ProdRecHeader'))
 
 WebUI.verifyElementText(findTestObject('Page_Kinray Weblink/ProdRecommendation/ProdRecHeader'), 'Items potentially inspired from your purchase history')
-
-
 

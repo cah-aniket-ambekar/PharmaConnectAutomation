@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>C2Label</description>
+   <name>C2Label</name>
+   <tag></tag>
+   <elementGuidId>10837037-d303-4bb0-9273-1a19d068dfd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//h3[@id='C2']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//h3[@id='C2']</value>
+      <webElementGuid>efe1af2a-1874-4667-837b-448294145365</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

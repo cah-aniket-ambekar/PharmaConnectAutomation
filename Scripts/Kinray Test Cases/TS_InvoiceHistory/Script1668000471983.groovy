@@ -43,6 +43,9 @@ WebUI.click(findTestObject('Page_Kinray Weblink/Invoice/invoicelnk'))
 'Validate invoice number in invoice history details'
 WebUI.verifyElementText(findTestObject('Page_Kinray Weblink/Invoice/getinvicetxt'), InvoiceNum)
 
+//String content = CustomKeywords.'FileUtils.getTextFileContent'("C:\\Users\\aniket.ambekar\\Downloads\\rawdata.txt")
+//println content
+
 'Close browser'
 WebUI.closeBrowser()
 

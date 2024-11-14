@@ -7,17 +7,18 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//mat-cell[contains(text(),'4981130')]</value>
+         <value>//mat-cell[contains(text(),'5542121')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//mat-cell[contains(text(),'4981130')]</value>
-      <webElementGuid>7fc93fec-fbd4-4f52-bfea-6e7026c993c8</webElementGuid>
+      <value>//mat-cell[contains(text(),'5542121')]</value>
+      <webElementGuid>8a6e51ef-b571-4315-9957-96a75de2cc0c</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

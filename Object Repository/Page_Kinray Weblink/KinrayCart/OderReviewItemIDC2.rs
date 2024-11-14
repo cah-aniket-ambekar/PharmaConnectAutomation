@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OderReviewItemIDC2</name>
+   <tag></tag>
+   <elementGuidId>8024ffaa-19d0-4412-938d-9e29bd2da153</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//mat-cell[contains(text(),'5709787')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//mat-cell[contains(text(),'5709787')]</value>
+      <webElementGuid>3c152054-28eb-4418-a972-845373dde767</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

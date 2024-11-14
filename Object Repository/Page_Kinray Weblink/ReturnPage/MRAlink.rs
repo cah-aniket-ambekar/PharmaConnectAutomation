@@ -7,21 +7,21 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>*//a[@id='mraLink-3900181347']</value>
+         <value>*//a[@id='mraLink-3907945672']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>*//a[@id='mraLink-3900181347']</value>
-      <webElementGuid>365b8363-013d-4c9a-9d99-69b6a2ba55a0</webElementGuid>
+      <value>*//a[@id='mraLink-3907945672']</value>
+      <webElementGuid>88bfa676-777c-4f88-a075-298c8bc7eb55</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>ReportsMenu</description>
+   <name>ReportsMenu</name>
+   <tag></tag>
+   <elementGuidId>8f73e42e-7ad0-4ed0-a396-866772843594</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='reports']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='reports']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='reports']</value>
+      <webElementGuid>a6e44e01-0c0d-4614-a331-3765622f6b1e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

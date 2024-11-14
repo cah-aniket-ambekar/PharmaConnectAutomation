@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "0198A14BB5D7CC24502713AA2BBB6B47",
+  "keywordClasses": [
+    {
+      "name": "FileUtils",
+      "keywordMethods": [
+        {
+          "name": "getTextFileContent",
+          "parameters": [
+            {
+              "name": "filePath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

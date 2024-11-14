@@ -27,6 +27,8 @@ WebUI.click(findTestObject('Page_Kinray Weblink/homepage/BtnAccount'))
 WebUI.click(findTestObject('Page_Kinray Weblink/homepage/drpDwnWebAccount'))
 	
 'Verify web account settings page'
-WebUI.verifyElementText(findTestObject('Page_Kinray Weblink/homepage/headerWebAccount'), header)
+WebUI.verifyElementText(findTestObject('Page_Kinray Weblink/WebAccountSettings/headerWebAccount'), header)
+
+
 
 

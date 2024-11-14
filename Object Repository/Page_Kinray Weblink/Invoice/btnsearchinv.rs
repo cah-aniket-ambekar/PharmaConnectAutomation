@@ -7,17 +7,18 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//button[@id='invoiceSearchGoButton']</value>
+         <value>(//button[@id='invoiceSearchGoButton'])[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//button[@id='invoiceSearchGoButton']</value>
-      <webElementGuid>f62d6085-1a21-4c38-9aa5-304dc606d262</webElementGuid>
+      <value>(//button[@id='invoiceSearchGoButton'])[2]</value>
+      <webElementGuid>44b6090c-f4da-4282-8922-fcc186758e36</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

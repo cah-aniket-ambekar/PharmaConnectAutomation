@@ -30,13 +30,13 @@ WebUI.setText(findTestObject('Page_Kinray Weblink/homepage/homesearchbox'), Item
 WebUI.click(findTestObject('Page_Kinray Weblink/homepage/searchbtn'))
 
 'add quantity'
-WebUI.click(findTestObject('Page_Kinray Weblink/homepage/addbtn'))
+WebUI.enhancedClick(findTestObject('Page_Kinray Weblink/homepage/addbtn'))
 
 'add the item in cart'
 WebUI.click(findTestObject('Page_Kinray Weblink/homepage/carticon'))
 
 'scroll to item id label'
-WebUI.scrollToElement(findTestObject('Page_Kinray Weblink/homepage/lblregualr'), 4981130)
+WebUI.scrollToElement(findTestObject('Page_Kinray Weblink/homepage/lblregualr'), 5542121)
 
 'Checkout the item'
 WebUI.click(findTestObject('Page_Kinray Weblink/homepage/checkoutbtn'))

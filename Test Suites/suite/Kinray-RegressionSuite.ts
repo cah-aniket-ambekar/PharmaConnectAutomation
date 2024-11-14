@@ -112,4 +112,62 @@
       <testCaseId>Test Cases/Kinray Test Cases/TS_ProductRecommendation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>236d6271-7223-4f3c-b79a-275dc1f7d22d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Kinray Test Cases/TS_ValidateReturnsHelpPage</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08b57c48-53df-4812-8b35-de017a1d85ce</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>93cddacb-6926-4a13-a404-6f78c64672eb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Kinray Test Cases/TS_ValidateCsosHelpPage</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>21aa9eb8-39ce-49eb-ad7c-4a3b5fa3fa16</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>688509e2-21d3-4a1e-b8c2-ea37c258d047</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Kinray Test Cases/TS_WebAccountSettings</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a870de26-51ee-4494-81ec-eb6889aba2fe</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3030c430-c45a-4efb-94f7-a83888643665</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Kinray Test Cases/TS_ValidateC2Orders</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>02c79f66-f02b-4988-82e5-a69dda5bfe15</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d8bd35a2-ac29-4875-b16f-b75d3a7aba3d</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>

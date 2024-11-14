@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>ValidateCsosHelpPage</description>
+   <name>TS_ValidateCsosHelpPage</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>955844f1-49ea-4d7f-9d88-b6dc6857f9d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21aa9eb8-39ce-49eb-ad7c-4a3b5fa3fa16</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'CSOS Policies'</defaultValue>
+      <description></description>
+      <id>21aa9eb8-39ce-49eb-ad7c-4a3b5fa3fa16</id>
+      <masked>false</masked>
+      <name>CsosPolicyTxt</name>
+   </variable>
+</TestCaseEntity>

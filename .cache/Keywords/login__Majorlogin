@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "49D4D676C668403017FA18903DA784E7",
+  "keywordClasses": [
+    {
+      "name": "login.Majorlogin",
+      "keywordMethods": [
+        {
+          "name": "loginpage",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

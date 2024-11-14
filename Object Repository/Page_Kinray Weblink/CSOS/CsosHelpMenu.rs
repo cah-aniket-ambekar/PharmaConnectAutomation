@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>CsosHelpMenu</description>
+   <name>CsosHelpMenu</name>
+   <tag></tag>
+   <elementGuidId>77b624a5-dd1c-413b-8da2-6110aa9809d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id='csosHelp']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id='csosHelp']</value>
+      <webElementGuid>d8a7fe7c-159d-4f97-91f2-a42ea5666260</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

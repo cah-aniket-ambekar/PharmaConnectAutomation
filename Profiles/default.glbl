@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'rFGTHkXPeQxsHr3OCnPyNw=='</initValue>
+      <initValue>'rFGTHkXPeQyvmg8C7JqPPQ=='</initValue>
       <name>KinrayPwd</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -33,5 +33,20 @@
       <description></description>
       <initValue>'tcAC3mGBcIHgJRVN2El2yw=='</initValue>
       <name>ParmedPwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://majorpharmaceuticals.stg.cardinalhealth.com/home'</initValue>
+      <name>MajorStage</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'rFGTHkXPeQx9DYDz0oxETA=='</initValue>
+      <name>MajorPwd</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ambekar_aniket06'</initValue>
+      <name>MajorUserName</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

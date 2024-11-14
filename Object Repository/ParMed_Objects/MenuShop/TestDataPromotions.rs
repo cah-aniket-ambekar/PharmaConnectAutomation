@@ -7,17 +7,18 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[text()='NEW PROMOTION']</value>
+         <value>//a[text()='Promotions']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[text()='NEW PROMOTION']</value>
-      <webElementGuid>15ce835e-1a9d-4a5a-a46f-4483523a5791</webElementGuid>
+      <value>//a[text()='Promotions']</value>
+      <webElementGuid>684ed7fe-7091-4a22-8844-755913cb84c1</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

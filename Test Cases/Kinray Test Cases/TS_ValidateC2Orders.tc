@@ -5,4 +5,30 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>040c23b3-f382-48f8-befa-6f640c3d92a6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>02c79f66-f02b-4988-82e5-a69dda5bfe15</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8bd35a2-ac29-4875-b16f-b75d3a7aba3d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5709787'</defaultValue>
+      <description></description>
+      <id>02c79f66-f02b-4988-82e5-a69dda5bfe15</id>
+      <masked>false</masked>
+      <name>ItemId</name>
+   </variable>
+   <variable>
+      <defaultValue>'TestAniket'</defaultValue>
+      <description></description>
+      <id>d8bd35a2-ac29-4875-b16f-b75d3a7aba3d</id>
+      <masked>false</masked>
+      <name>Txt</name>
+   </variable>
 </TestCaseEntity>

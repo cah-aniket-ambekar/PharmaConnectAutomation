@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//a[@id='goToOrderDetail-851797237']</value>
+         <value>//a[@id='goToOrderDetail-857366918']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -18,7 +18,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[@id='goToOrderDetail-851797237']</value>
-      <webElementGuid>f6e44919-5747-498c-aac8-26c82d629a9f</webElementGuid>
+      <value>//a[@id='goToOrderDetail-857366918']</value>
+      <webElementGuid>ac2a69f4-074f-4e89-be18-d777fe207245</webElementGuid>
    </webElementProperties>
 </WebElementEntity>
